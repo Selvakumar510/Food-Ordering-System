@@ -1,17 +1,6 @@
 ﻿# Restaurant Food Ordering Management System - React, Express.js FullStack MERN Project (including Business-Insights Dashboard)
 
 A comprehensive, modern food ordering platform built with the MERN stack (MongoDB, Express.js, React, Node.js) featuring real-time order management, payment processing, analytics dashboard, and advanced search capabilities.
-
-- **Frontend-Live:** [https://food-mern-ordering.vercel.app/](https://food-mern-ordering.vercel.app/)
-- **Backend-Live:** [https://food-ordering-backend.arnobmahmud.com](https://food-ordering-backend.arnobmahmud.com)
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-![Food Ordering Platform](https://img.shields.io/badge/React-18.2.0-blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.3.3-blue)
-![Node.js](https://img.shields.io/badge/Node.js-18.0.0-green)
-![MongoDB](https://img.shields.io/badge/MongoDB-6.3.0-green)
-![Stripe](https://img.shields.io/badge/Stripe-14.15.0-purple)
-
 ![Screenshot 2025-09-01 at 15 44 06](https://github.com/user-attachments/assets/ca1e8188-6070-4742-893b-c4e75f27286e)
 ![Screenshot 2025-09-01 at 15 45 22](https://github.com/user-attachments/assets/e07cdafd-b592-4232-9df7-2eaeaa0ae1b4)
 ![Screenshot 2025-09-01 at 15 45 47](https://github.com/user-attachments/assets/1d76489d-8c83-47d8-9482-06c737e7c0dd)
